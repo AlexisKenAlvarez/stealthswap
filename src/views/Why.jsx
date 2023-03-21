@@ -6,7 +6,7 @@ import Roadmap from './Roadmap'
 const Why = () => {
     return (
         <>
-            <main className='w-full px-8 md:px-10 relative h-auto z-10 py-16'>
+            <main className='w-full px-8 md:px-10 relative h-auto z-10 py-16' id="why">
 
                 <div className="sm:w-60 sm:h-60 w-[10rem] h-[10rem] bg-gradient-to-bl from-rd/90 to-black/50 rounded-full absolute bottom-[3rem] sm:left-[3rem] -left-24 mx-8 opacity-70" />
 

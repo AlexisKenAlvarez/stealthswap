@@ -6,19 +6,19 @@ import { MdEmail } from "react-icons/md";
 
 export const navlinks = [
     {
-        pnk: "#",
+        link: "#how",
         name: "How it works"
     },
     {
-        pnk: "#",
+        link: "#about",
         name: "About"
     },
     {
-        pnk: "#",
+        link: "#why",
         name: "Why StealthSwap"
     },
     {
-        pnk: "#",
+        link: "#roadmap",
         name: "Roadmap"
     },
 ]

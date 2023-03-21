@@ -76,7 +76,7 @@ const How = () => {
     ]
 
     return (
-        <section className='w-full px-8 md:px-10 relative h-auto py-20 overflow-hidden' id="How">
+        <section className='w-full px-8 md:px-10 relative h-auto py-20 overflow-hidden' id="how">
 
             <div className="flex flex-col items-end justify-end font-[900] text-9xl absolute right-[-3rem] bottom-0">
                 <motion.p initial={{opacity: 0}} whileInView={{opacity: 0.1, x: [200, 0]}} transition={{duration: 0.8, delay: 0.1}} className='text-center font-[900] text-[8rem] bg-gradient-to-b bg-clip-text from-wht/90 to-gry inline-block text-transparent opacity-10'>HOW IT WORKS</motion.p>

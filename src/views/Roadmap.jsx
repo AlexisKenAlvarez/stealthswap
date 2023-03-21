@@ -5,7 +5,7 @@ import { roadmapList } from '../constants'
 
 const Roadmap = () => {
     return (
-        <main className='w-full px-8 md:px-10 h-auto pt-20 relative z-10'>
+        <main className='w-full px-8 md:px-10 h-auto pt-20 relative z-10' id="roadmap">
 
             <div className='w-[20rem] h-[20rem] bg-wht/30 rounded-full blur-[150px] absolute left-0 top-0 bottom-0 my-auto opacity-80' />
             <div className='w-[20rem] h-[20rem] bg-wht/20 rounded-full blur-[150px] absolute right-0 bottom-32 opacity-80' />
