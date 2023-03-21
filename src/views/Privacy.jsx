@@ -28,9 +28,9 @@ const Privacy = () => {
                 </AnimateText>
 
 
-                <div className="w-fit flex items gap-x-12 2xl:gap-x-3  mt-10 mx-auto lg:flex-row flex-col items-center justify-center">
+                <div className="w-fit flex items gap-x-14 2xl:gap-x-20  mt-10 mx-auto lg:flex-row flex-col items-center justify-center">
 
-                    <AnimateImage src="laptop" className="w-[35rem]" />
+                    <AnimateImage src="laptop" className="w-[33rem]" />
                     <AnimateText>
                         <div className="max-w-[28rem] flex flex-col gap-y-6 font-[200]">
                             <p className="">The use of currency mixers has become increasingly popular in recent years, allowing users to swap digital assets without revealing their identity.</p>
