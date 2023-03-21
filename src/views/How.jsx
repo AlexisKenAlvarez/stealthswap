@@ -93,7 +93,7 @@ const How = () => {
                     <p className='text-center font-[500] text-2xl bg-gradient-to-r bg-clip-text from-rd to-orng text-transparent w-fit mx-auto'>Monero as a tunnel between exchanges</p>
                 </AnimateText>
 
-                <div className="mt-24 2xl:max-w-[90rem] xl:max-w-[75rem] lg:max-w-[60rem] sm:max-w-[30rem] max-w-[18rem] pb-10 mx-auto w-fit">
+                <div className="mt-24 2xl:max-w-[93rem] xl:max-w-[75rem] lg:max-w-[63rem] sm:max-w-[30rem] max-w-[18rem] pb-10 mx-auto w-fit">
                     <Slider {...settings} ref={sliderRef}>
                         {howList.map((items, i) => {
                             return (
